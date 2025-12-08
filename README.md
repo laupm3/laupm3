@@ -1,12 +1,13 @@
 <h1 align="center">Laura Prieto</h1>
-<h3 align="center">Frontend Developer</h3>
+<h2 align="center">Frontend Developer | React · JavaScript</h2>
 
 ###
 
 <div align="center">
-  <a href="https://es.linkedin.com/in/laura-prieto-merino" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=%20&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <h3>Encuéntrame en: <a href="https://es.linkedin.com/in/laura-prieto-merino" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=%20&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
   </a>
+  </h3>
 </div>
 
 ###
@@ -56,13 +57,13 @@
 
 ###
 
-<p align="left">Soy <strong>Laura Prieto</strong>, desarrolladora <strong>frontend</strong> especializada en diseño, gestión y mantenimiento de la parte visual e interactiva de plataformas web.<br><br>✨ Cuento con experiencia desarrollando aplicaciones basadas en <strong>React</strong> y Laravel, así como en la implementación de funcionalidades frontend con <strong>JavaScript, Mustache, Sass, Bootstrap y Tailwind</strong>. También he trabajado en el diseño, desarrollo y mantenimiento de plataformas de <strong>Moodle</strong> completas, incluyendo la creación de temas, plugins y bloques personalizados, siempre con un diseño <strong>responsive y accesible</strong>.<br><br>📚 Actualmente me encuentro aprendiendo nuevas tecnologías como <strong>Angular</strong> y <strong>Next.js</strong> y profundizando en <strong>Browser APIs</strong> avanzados, buscando ampliar y fortalecer mis fundamentos como desarrolladora.</p>
+<p align="left">Soy <strong>Laura Prieto</strong>, desarrolladora <strong>frontend</strong> especializada en el diseño, gestión y mantenimiento de la parte visual e interactiva de plataformas web, integrando interfaces modernas y experiencias de usuario fluidas.<br><br>✨ Cuento con experiencia desarrollando aplicaciones basadas en <strong>React</strong> y Laravel, así como en la implementación de funcionalidades frontend con <strong>JavaScript, Mustache, Sass, Bootstrap y Tailwind</strong>. También he trabajado en el diseño, desarrollo y mantenimiento de plataformas de <strong>Moodle</strong> completas, incluyendo la creación de temas, plugins y bloques personalizados, siempre con un diseño <strong>responsive y accesible</strong>.<br><br>📚 Actualmente me encuentro aprendiendo nuevas tecnologías como <strong>Angular</strong> y <strong>Next.js</strong> y profundizando en <strong>Browser APIs</strong> avanzados, buscando ampliar y fortalecer mis conocimientos como desarrolladora.</p>
 
 ###
 
 <h3 align="left">🚀 Proyectos destacados</h3>
 <ul>
-  <li>🧭 <strong>Sistema RRHH</strong> — Aplicación en Laravel con arquitectura limpia, gestión de contratos y roles.</li>
+  <li>🧭 <a href="https://github.com/laupm3/React-Inertia-Breeze-Tailwind" target="_blank" <strong>Sistema RRHH</strong></a> — Aplicación en Laravel con arquitectura limpia, gestión de contratos y roles.</li>
   <li>🧩 <strong>Plugin Moodle</strong> - Block, theme, local, mod.</li>
 </ul>
 
@@ -73,5 +74,3 @@
 </div>
 
 ###
-
-
