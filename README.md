@@ -85,7 +85,8 @@ Me enfoco en la calidad del código, la arquitectura mantenible y la mejora cont
   <a href="https://laurapm.vercel.app/" target="_blank">Demo</a>  
   — Web desarrollada en React con enfoque responsive y optimización de rendimiento.</li>
 
-  <li>🌦 <a href="https://github.com/laupm3/weather-app" target="_blank"><strong>Weather App</strong></a>  
+  <li>🌦 <a href="https://github.com/laupm3/weather-app" target="_blank"><strong>Weather App</strong></a> · 
+  <a href="https://weather-app-laurapm.vercel.app/" target="_blank">Demo</a>  
   — Aplicación que consume API externa con gestión de estados, carga y manejo de errores.</li>
 
   <li>🧩 <strong>Plugins Moodle personalizados</strong>  
