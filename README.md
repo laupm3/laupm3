@@ -7,6 +7,10 @@
   <h3>Encuéntrame en: <a href="https://es.linkedin.com/in/laura-prieto-merino" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=%20&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
   </a>
+    <a href="https://laurapm.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=%20&color=000000&logoColor=white&labelColor=&style=plastic" height="35" alt="portfolio logo"  />
+</a>
+
   </h3>
 </div>
 
@@ -72,14 +76,20 @@ Me enfoco en la calidad del código, la arquitectura mantenible y la mejora cont
 ###
 
 <h3 align="left">🚀 Proyectos destacados</h3>
+
 <ul>
-  <li>🏢 <a href="https://github.com/laupm3/React-Inertia-Breeze-Tailwind" target="_blank"><strong>Sistema RRHH</strong></a> (Laravel + React) — Aplicación full-stack con gestión de empleados, roles, notificaciones en tiempo real y arquitectura escalable.</li>
+  <li>🏢 <a href="https://github.com/laupm3/React-Inertia-Breeze-Tailwind" target="_blank"><strong>Sistema RRHH</strong></a> (Laravel + React)  
+  — Aplicación full-stack con gestión de empleados, roles, notificaciones en tiempo real y arquitectura escalable.</li>
 
-  <li>🌐 <a href="https://github.com/laupm3/portfolio" target="_blank"><strong>Portfolio personal</strong></a> — Web desarrollada en React con enfoque responsive y optimización de rendimiento.</li>
+  <li>🌐 <a href="https://github.com/laupm3/portfolio" target="_blank"><strong>Portfolio personal</strong></a> · 
+  <a href="https://laurapm.vercel.app/" target="_blank">Demo</a>  
+  — Web desarrollada en React con enfoque responsive y optimización de rendimiento.</li>
 
-  <li>🌦 <a href="https://github.com/laupm3/weather-app" target="_blank"><strong>Weather App</strong></a> — Aplicación que consume API externa con gestión de estados, carga y manejo de errores.</li>
+  <li>🌦 <a href="https://github.com/laupm3/weather-app" target="_blank"><strong>Weather App</strong></a>  
+  — Aplicación que consume API externa con gestión de estados, carga y manejo de errores.</li>
 
-  <li>🧩 <strong>Plugins Moodle personalizados</strong> — Desarrollo de block, local y módulos adaptados a requisitos oficiales.</li>
+  <li>🧩 <strong>Plugins Moodle personalizados</strong>  
+  — Desarrollo de block, local y módulos adaptados a requisitos oficiales.</li>
 </ul>
 
 ###
