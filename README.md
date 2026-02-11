@@ -1,5 +1,5 @@
 <h1 align="center">Laura Prieto</h1>
-<h2 align="center">Frontend Developer | React · JavaScript</h2>
+<h2 align="center">Frontend & Full-Stack Developer | React · TypeScript · Laravel · CI/CD</h2>
 
 ###
 
@@ -48,6 +48,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" height="30" alt="laravel logo"  />
   <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
 </div>
 
@@ -57,14 +59,27 @@
 
 ###
 
-<p align="left">Soy <strong>Laura Prieto</strong>, desarrolladora <strong>frontend</strong> especializada en el diseño, gestión y mantenimiento de la parte visual e interactiva de plataformas web, integrando interfaces modernas y experiencias de usuario fluidas.<br><br>✨ Cuento con experiencia desarrollando aplicaciones basadas en <strong>React</strong> y Laravel, así como en la implementación de funcionalidades frontend con <strong>JavaScript, Mustache, Sass, Bootstrap y Tailwind</strong>. También he trabajado en el diseño, desarrollo y mantenimiento de plataformas de <strong>Moodle</strong> completas, incluyendo la creación de temas, plugins y bloques personalizados, siempre con un diseño <strong>responsive y accesible</strong>.<br><br>📚 Actualmente me encuentro aprendiendo nuevas tecnologías como <strong>Angular</strong> y <strong>Next.js</strong> y profundizando en <strong>Browser APIs</strong> avanzados, buscando ampliar y fortalecer mis conocimientos como desarrolladora.</p>
+<p align="left">
+Soy <strong>Laura Prieto</strong>, desarrolladora <strong>Frontend & Full-Stack</strong> con experiencia en proyectos reales en producción.
+
+He trabajado desarrollando aplicaciones con <strong>React</strong> y <strong>Laravel</strong>, creando interfaces modernas, accesibles y escalables, e integrando APIs REST y servicios externos.
+
+También cuento con experiencia sólida en <strong>Moodle</strong>, desarrollando plugins personalizados (local, block, mod, reportes), integraciones mediante WebServices y adaptación a requisitos de homologación (WCAG 2.1).
+
+Me enfoco en la calidad del código, la arquitectura mantenible y la mejora continua de la experiencia de usuario.
+</p>
 
 ###
 
 <h3 align="left">🚀 Proyectos destacados</h3>
 <ul>
-  <li>🧭 <a href="https://github.com/laupm3/React-Inertia-Breeze-Tailwind" target="_blank" <strong>Sistema RRHH</strong></a> — Aplicación en Laravel con arquitectura limpia, gestión de contratos y roles.</li>
-  <li>🧩 <strong>Plugin Moodle</strong> - Block, theme, local, mod.</li>
+  <li>🏢 <a href="https://github.com/laupm3/React-Inertia-Breeze-Tailwind" target="_blank"><strong>Sistema RRHH</strong></a> (Laravel + React) — Aplicación full-stack con gestión de empleados, roles, notificaciones en tiempo real y arquitectura escalable.</li>
+
+  <li>🌐 <a href="https://github.com/laupm3/portfolio" target="_blank"><strong>Portfolio personal</strong></a> — Web desarrollada en React con enfoque responsive y optimización de rendimiento.</li>
+
+  <li>🌦 <a href="https://github.com/laupm3/weather-app" target="_blank"><strong>Weather App</strong></a> — Aplicación que consume API externa con gestión de estados, carga y manejo de errores.</li>
+
+  <li>🧩 <strong>Plugins Moodle personalizados</strong> — Desarrollo de block, local y módulos adaptados a requisitos oficiales.</li>
 </ul>
 
 ###
